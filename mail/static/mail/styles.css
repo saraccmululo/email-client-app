@@ -1,0 +1,16 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-item {
+  cursor: pointer;
+}
+
+.email-item:hover {
+  background-color: #f1f1f1;
+}
+
+.email-item.read{
+    background-color: #D3D3D3;
+}
+
